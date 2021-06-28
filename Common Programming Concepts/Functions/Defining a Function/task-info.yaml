@@ -1,0 +1,27 @@
+type: edu
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJMB3Mc7EVSffDtW3xW2bdwZ75mQuwjgQXY6BLtnFEXV9Igf1I9BDmpmiva1Jmb5rGVPch76sxJDU26jE5bJVxQ=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 30
+    length: 38
+    placeholder_text: //insert the function declaration here
+    initial_state:
+      length: 38
+      offset: 30
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: fMUkUbPsOMJOhS3x0QTG8g==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DHSrcUMTs2vcVcUX7295yRbwP/BNLAy6iAV0cD92eFBz1Obenl6w5Iap1G1ni2g8ZJEkgOLqNkcEHeXjqzQnxVs=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8Vm+/EC1NguOqk3/BjT3jh8g==
+  learner_created: false
+status: Unchecked
+record: -1

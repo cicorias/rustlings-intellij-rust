@@ -1,0 +1,13 @@
+type: theory
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJaeAo2GeckSGXUaBDNGkgZmrdsa3sMug+r2DnhjjG+sLlhper30qRmyKr15ps2tLAEFPXZ32PsVNqstMg4cFE4=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DAxq7GRAhLXEp5PjC3JNOelGqcOyZTPSDRgW1kqYuNrW1WUlcQKPmc9xVzJqg26DaA==
+  learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

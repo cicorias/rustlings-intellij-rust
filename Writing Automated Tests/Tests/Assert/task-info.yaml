@@ -1,0 +1,24 @@
+type: theory
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLPtdAXwkWvwJD3F5NoKnz1N7fxev1vL50XcGCUIoMHbyLyJZmoxDbMmWXhA3Ab8Qw==
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 79
+    length: 4
+    placeholder_text: /**/
+    initial_state:
+      length: 4
+      offset: 79
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: B32H4xjFtl8yhKC200kQ5w==
+  encrypted_text: ziaKVSCklZFI9A2Vz8XIYE+PFHIBkHelcXvJkc7q5+uPi7b2ZidEXNXKVNNcTCF8HsgjWPKbSEcoLz2YEbIufh0Vj893GUQnTGsBUlIX58CuretMWF4pHurx9m4nP/TV
+  learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

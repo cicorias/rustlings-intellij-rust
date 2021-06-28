@@ -1,0 +1,27 @@
+type: edu
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfHk4oufx2ZpUwAP3whK+M2Xu9/jxJd2/yD+D75ubgmCSZvRGs90EHc0f2M9nOdKCOgybi0c5zMUL7n624ZtnToj9ICwOnI/SyZFh/xQT5l3t/aEgMqsc3i6NiCUrYmrimQ==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 26
+    length: 55
+    placeholder_text: /*insert the keyword here to make the function public*/
+    initial_state:
+      length: 55
+      offset: 26
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: zUQwKXrYQPrtbNCKSn+iNA==
+  encrypted_text: mzkH9qBSP+G7hotDQ7gw8qPPgti/WNzPcsA67n+JpKyAsYcFTZjYHUTdpYWZp3UMCDu/IDEy40PGVS3WdgePcce/NmzIlMowFwsdX3gz5e+blGMSNwyeUPj1qsThM7lYwbmZSWMMY3begU93aDSoki6MQruSuoNoyBqe0wjmRQ3yAQnBGKo0HEzSdSMCNv334iXaf0LYdH9ZaP3A0OyUh2EpeM8G+UuaxadkJjFoliOlvwOPXx6ZLSqIDEjHYFrX
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: JBpqDB0y/rOhs2dxJdUswqwWJVLvnuMqXQEL/lIRGhLDvCJyq4TVWOnQ52Stbky2QTR8WFa7MS55unl3Ojybog0KdYLj1bVDjmEGPSZUEcWSQ7AFh/Ujwh4WQK6pvqZxQtwocftJga/2gFnfqTnvMbpGFA0km/uQ8BV+M+BwO4JgMQ4S/2HjEXK1s4WIXF/8nY2fv1F1s1LqPWDDMjPsJETbxXZBy04X9IuBn2KAhAr1f9wzjlEE9Ug8d6OI7FT+AIqCmgYfq6QM9exfOM0JWdjDf+yY0NF5CzSLpwnsZYmAebz0x0+E7vNnzy6jk7iszjOSH+PLafFu92airBqIyxeAdCLaWARs2ut1vv/HiwI1aid5RxOxk3EBUI1SbDd1i+30cBgB12sHQSTsZRNVccSWWOhB3qDP8dOA/2Qgf1hAYabRX6nhbxJdNQQd/xEvQVT1KbvOkoKX79pOLtZ+a5dAgxsespQDKEvYuj5gzeazipQSMYhsdHc8HFi9g+oul8+ftkxYNeWkde9Aq9cimlNlYl5nt0wT3DWRSyJdmMtbogKrNsM2KexpJPkugm8tKxz2tra28lN3MC6sEBBOQWFdylh0txfR/wm2yXm5sqci0DuLmfPDUGUPKkNFM7labxSGrqgdtZp+6ij4X4wHfBNEgcyEpUoLmNnIfxyI+doWRmj67hySdG13QPWcx0xfJEAuRURR3EKMvJvn+DI6x8/GlNLzDsHt+TDdRCLaW7E=
+  learner_created: false
+status: Unchecked
+record: -1

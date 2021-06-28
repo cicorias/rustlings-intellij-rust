@@ -1,0 +1,57 @@
+type: edu
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCvwmO+/IwEzMwbsk8WF/o0geoBan7TxsQLOMudjNkliLiFr1hFmPn2JuV1xr6Ns82c1d2EGsSW1MTj0KCpfs3Qs1zNtgYpDE3JUVeWOMGMjmUgHZkC1oDbF1zxAInzZRg==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 16
+    length: 22
+    placeholder_text: let vec0 = Vec::new();
+    initial_state:
+      length: 22
+      offset: 16
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: i5NiCRsuLdZj6fQlhscDp40UWFH8YDUjXEpa0BnYJzc=
+  - offset: 68
+    length: 4
+    placeholder_text: vec0
+    initial_state:
+      length: 4
+      offset: 68
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: E6PqxYUCD0d6xgrQwTusaoyDJHIkZWIqmvsrnCbkU0M/tlXJCyOZQ83hGyZkFBwg
+  - offset: 342
+    length: 39
+    placeholder_text: //The vector declaration should be here
+    initial_state:
+      length: 39
+      offset: 342
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: DyOs3Jf5SudMu6L41LF0NK4Efios4te8Fy+Z1QFcMKQ=
+  - offset: 401
+    length: 40
+    placeholder_text: vec /*assign the created variable here*/
+    initial_state:
+      length: 40
+      offset: 401
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: imRa2yCiKPxTbJvnBuv+jw==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DJ5NBciZvbqty/qygDO33Ylxvz0zqGwud8vSxVj7Ro6DxDwJP98PMZnn7H6doWzcETCSiPMBF/1OzZTb/9yAF7qvlTJeff4VC1chF8H+172C3KrxIaMy6EIF+A4PX8wHsfWWi7lyJBqvKBdjl1qsIRQhBlQGZh7vzY8aSgLpWgXXadX3WHQE+fKqOxbnRblA/gZ5sux8fMR1lHHbXBah5DXpiu8WRHPki5bwdFjPOjk6QEXEYM939m6NEcrkqtLTFkZP99Dfn3vHHYN03ripOjeBQ+m+89jLk1o6PrrgnIfV2STrs0kYL6iZTivat1XGna0aNEbaKHtWOZpHSeC5jlBDKeYzJdy6f+TEvPLr7Vsbe/PgM0OiQwlu67pH+gD0gCvxavKjNuefKegQ+2ZR5lEdDGrRHg1rjSdTbTYLtR+eWPLBczU8xTdGtjIApKaVRQtdb7C7SLztglJvcxQrrWEwxIJtP/6UcIdGFcWa7wKKiJ/SZ0cVPh/oZBvoOOH06iOlLjRqq3x9eP+Fd5p7dDh/WGC8KGYqR7D7cQQiPDPM0e7Z7vYJV4kFTa4JxhD63UeG07ba8dXiZtzO0UG07gY5ZRtiFa7mWMCKvH/RpX/tEgHggeyE2qqhSlD4Vw0XliyRJjCjdTfKeWk3dH27lwc=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: JBpqDB0y/rOhs2dxJdUswubZ3Pzt3DmYBIr2tqoc3MRIdZLOIGKsarlnqqJA17utSYnZ8Sa75Ld1sn2MTmNd+FOPwuKOkmHgtBNsvgjDi2/6mEqoo0gSGUfVI3TuUXz8/KlmIMMGQPCss/Bn+wvNcB/LHViEyq/kIqwEb/F6MW9touvJLlbpcPIg5gfw/gECAXDWBGuYrDYQer6ojFrC33WiW5+OMAP+twQnycyFTkuo8x5WXA+aeBiWmtqI5cgMreNN4IJjV5YotUmg5J0BFYpOOSE7TqmSME8ngdYJ8pWva9huC2R4yQbvXFDbqXEui54PVxbWrg7fh1WODbqdN2FbtL9bs8la2gmKMaD9eesyHaLHlSrcBH9ZLY9z4GuP6UQsC4P+MdnJ+Fg6Km0EdLki0bowwhsWCQCMek1cBldGT4pAoCaxUZjjQSQx/Y5DzO1VRLy5Aj25BhXJsponPZX/9ue3Qa7N9pmJ+EY0w6lbnhTufUy5osgrO1RqSo5tm0Cp1Av9S54+xfpyswyFKUwIqFqSHngwotVpv/vPAOolNCzsuHWtInsmWHl5bH40dsQW/4Z/0hBXddJRCxGCTH4azDQeaq50RuxHbIIBdnjmt7BqA59NBSF5z9pjRLnGO8285SCA3iLMcCFH1zufAJ26J4CZRaswmE9MJUqabZb22XCLMWrCtzA9SiaE2ss5YeKCqiVbZoUY0kvazcB4PbCiNMY/ADGTauW90GPkG1S4D4W49sw4bUDn1comKdAhPxOxN3qtit8wYazQ9Z1a+H45PGvbYg+uojgjF95eu+eB6lLQcKHU+bymV3trmDJ6XuAvAqvkzjogJ+InEUr5imGLFH+f1cYQ6owVfvb8WG4hogEIfO6TE6T43KOlCdbUobqGME0I6PKtwn1Y7sOA86fu5K84NMf7nU2/sMnzoIdCXB6nWCMCi56CO9qBzwbU1NYzKBX6uXtprQvrWCh0ROJX/Z4IpmLubCOACpBZ8ACpD3JcKNwedd+iZY+owB2rJ2efYE25+GVsNhn7yrMpML2jQfYgwlJKpl6TNI3g6prfMG4OjS0VhysOtwLoX8KyCvYOK5LBh0mZiuIy+NPkeyTyxgmekVfXSzFuwVIuGRuaIVQQBPY5gMPZFHKUDnqU6dSKVmroRWXIUd0DUxbvTkbAGKHaDabVnA/xP1+REYo=
+  learner_created: false
+status: Unchecked
+record: -1

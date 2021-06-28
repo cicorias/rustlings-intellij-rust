@@ -1,0 +1,78 @@
+type: edu
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfGlDhsxVH6e0ZOoZbNwPeXmqCn9GMAUoy4GpzSDx54d5SPpBPEWfyhcWFacl9LdV4Q==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 83
+    length: 48
+    placeholder_text: /*you could replace vec0 with another variable*/
+    initial_state:
+      length: 48
+      offset: 83
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: nafV8jsL3MoIm4WTl+tICIDO/P40+AtMlHw1ZeVyGpM=
+  - offset: 161
+    length: 25
+    placeholder_text: vec_0 /*and put it here*/
+    initial_state:
+      length: 25
+      offset: 161
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: YExs7Ak0SLah16b8I7UlAQ==
+  - offset: 417
+    length: 58
+    placeholder_text: /*if you gonna modify the argument, it should be mutable*/
+    initial_state:
+      length: 58
+      offset: 417
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 95v9xRiDQnQL/5/ZTs3zvA==
+  - offset: 490
+    length: 72
+    placeholder_text: -> Vec<i32> /*if you are not returning a value, here should
+      be no type*/
+    initial_state:
+      length: 72
+      offset: 490
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: VxemKLSjeaGx+o5Ox3RD+Q==
+  - offset: 569
+    length: 30
+    placeholder_text: /*you could borrow vec value*/
+    initial_state:
+      length: 30
+      offset: 569
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: B4YctygTac1AA/nJf8Gu4zYrrZQPZMmhGIRMkhehuCs=
+  - offset: 660
+    length: 55
+    placeholder_text: vec /*and then you don't have to return anything here*/
+    initial_state:
+      length: 55
+      offset: 660
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 4HZMffBDwfxs5xmAMAwb6w==
+  encrypted_text: zyer9Ls7KN1LJ6FG2Fdcc4YWOqgt7/7be/BRoP9RnX2XkwQn0yGqH/vLGLPfGvgZ6l6az6RhPFP2drWORRhnjPeDj0qcBN90Sg3c8iFTCCSz+HcaDhsa6kYe2pOIC2t8DIDCjrwHtDN3EBbiiRPi32KCl+ACcl7XbvF91W/9sNzHX7IiItO1GRHRd+NYk5q49PszquRt8noH6QWsq1pFExT4rGBwC4ixrL088vcwWYrHO92sjsiRfMbIplc7Dyhv+aMUIdriLJQ8+gH2kXPBM+IPw0oxQp77xpzlyr1/16A7PdnKhG5Cs1Y+QUN/zE5kOjoCUSuiW7gPzMdHPR9lv9sgt5/YDbHcHFuBNou/bnyHoC0J8sgVuEvO0Bd2udz6g3pTLXfZ5dG7SpnASf6MPKYCCgRwYDrIJa5BgMBFVtbeACvTBjJNnztWvBwJMySpac1xyA2bxg4BcEX2U9xujdcXuQ3M0NfqAs464zPm0ZOdfHNeAdtNpfyjnjS8Q6EwLbgvSU7tHaC0EaByc42+7iilx+qtfUkIFHR5ViJPGrLEtldA5PoMog5ZSXjpBdthwSxeQCNfJdrqsxoSKwsPK+ilNiWEuln67mrb/daD+PVG/h/qvzg+oE8mglqVer4gVJpDoUy6e8M6cc7ZAr93ljOZQnsz5YjS8rJCApg+5kStRwmcXYVCE3MPZ9povL+6erIbowX26+ptt0AslDtuCcZsbQgezNtqa7ZZRnm6WEk4lUKK5yWYqG0JPL8T3iBhfkWF9DD/s62qDtVAe7GvpdCpmhDACf0XHF7kb84kq5bBygEmEWdctbgcG9U2VifyINUPI0DxETUNXZCdK+pENt1xeYUhzVrp3klpq3GkP8ZRYwoUn0uY/y4Mq1mY7l61rubREfXw1uBn5HI+HPJAQFYfLH/cjdMfzs8rCc72SaSTUKjOW1HTdk3EGNeTUv77
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8Vm+/EC1NguOqk3/BjT3jh8g==
+  learner_created: false
+status: Unchecked
+record: -1

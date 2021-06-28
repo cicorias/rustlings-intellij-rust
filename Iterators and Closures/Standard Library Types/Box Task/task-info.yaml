@@ -1,0 +1,41 @@
+type: edu
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 124
+    length: 16
+    placeholder_text: unimplemented!()
+    initial_state:
+      length: 16
+      offset: 124
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 9JsWD0JtxU3L0hxSELvf0w==
+  - offset: 189
+    length: 16
+    placeholder_text: unimplemented!()
+    initial_state:
+      length: 16
+      offset: 189
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: bBgqMswAXdsysoHwOT8s/h3Hb/2B0fMxL9sR/t8zsJIMOeLpY2sq3oZChNNCjW92
+  encrypted_text: 1xA0y3Imzamr83KfZKd639hOeuTxnbhFm66EBdTYny4YbqOvfU1+WaqKauEn0MDjdVa5YxuA29Zpj0Mm4sxwnVIYwFhs8D+qbQdZ033+hWiNrKnCbBRoHKpy9Egu6nvGd37msm96C1fZjTeinXMMMKa4P62AfdNmjolbVabtMy0Swo5UHSLLKhxYuVZ6uk0OCA/LPObK2M+cFj9jmXoS1QVwXAkSv4c9MvyJhz0suEgDoIzPP0i92rK5nGwIPOj9iZ774MbuekSxUknVk8LzoDsjbWPiArQ1l4N1n9a2FZ8=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: Tp1JBm6Htat9+2hBcnfSPwGKIMoX6NSWjFxQWDeo1dy81V1A+5ZLBZ1A+6RzOnB4xjzdqfV3npSszkSBs34Spv+Kx5MYXOfs4qFrOyznrdcpfM2IJvIMtIe+tgSki3KRIBvrXxbEztU9Kb1OuCHYg8ZAE5X4GdzC9EMnK2n/B83+uaG4kPByZmUoDI/dHunwQ+mnTVaANNX6O+AqpOHhdHPlpNAwEhCRJ19yvHwhAXq+02ot7PW4zedCQYvQ1aqqcnTtwvHg2g6C1R/0Qhr/FQ==
+  learner_created: false
+- name: Cargo.toml
+  visible: true
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfAKM2faESPnqMfPYkW+HLRYL2k2TbNa5ZUg7DZFg6vG4HjJ/VIuSmd9k20kZPWNaTg==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: Tp1JBm6Htat9+2hBcnfSP0xmZXl0Slfw+46ILbPxno18K7UdGneXpiXuAEHBhwaASVTyAlt63jwKppoov4xyjOSYB+PsfJLYQpZ2Kw1KsdcRBphm8jP2hZWv4U9hC8cd2rWlCsNNdgpQTHRZQWIlZrV8qe6LTmsweHih0PA93I0ks8ARRV07oIr8BUxnWab5sDyNwkeOpT9J5/WVcmJtiNrW/N5Y6lqqvW/KKfrIUWSdTSRIPGtKqHTIwp9S+pHkqgrjB4jMGNJdYYUWs8SNcOo2Nk9Uyq9qfnNJZdmFE3c=
+  learner_created: false
+status: Unchecked
+record: -1

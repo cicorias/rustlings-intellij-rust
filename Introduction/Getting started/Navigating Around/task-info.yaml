@@ -1,0 +1,16 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DAxq7GRAhLXEp5PjC3JNOelGqcOyZTPSDRgW1kqYuNrW1WUlcQKPmc9xVzJqg26DaA==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJWer+eovTkv6J6WLl4fWEII5NuLEbi+7dyYN2Qw4VMklgAAGpjo5ecpO+zc7zfGGoTbM1QtZ9uBtN77Ls4c/ys=
+  learner_created: false
+- name: edu_course_overview.png
+  visible: false
+  learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

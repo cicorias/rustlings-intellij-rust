@@ -1,0 +1,36 @@
+type: ide
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 41
+    length: 61
+    placeholder_text: 'println!("{}: 10 years ago was {}", year1993, year1993 - 10);'
+    initial_state:
+      length: 61
+      offset: 41
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: wJhwCUy1u7wJjSjCBmvT0Yi0iqCJAnT1mYqaahPQ1aOiRfBlGfOfoXLzovYu4TIhkTCzb561R/89BHrUIgbagg==
+  - offset: 133
+    length: 61
+    placeholder_text: 'println!("{}: 10 years ago was {}", year2021, year2021 - 10);'
+    initial_state:
+      length: 61
+      offset: 133
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: wJhwCUy1u7wJjSjCBmvT0Yi0iqCJAnT1mYqaahPQ1aNXiJ3XGShVwa8w7/Cc6I0xdAlGF2cArMl3hnYVVTK0XA==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DJMHJ0iZM7BngxGrQupgxpQrKgCUyZOz5U7c6TdYvl3tG3vcK9HGjTe0Nm3Rn36KtBcodeN1f99W4NsjE/iZX6j+X8wld6bRJSlS+KdhYYzOCz6w0HFsoMZK3EDbGorlctZ3ibdZ9682cglq+CR4rwSG6zAswoxUx2pXmaHs/ioOb/mVSdlT0dxcdveLclmLDfgExgnG8YJy0i0nrbohKWs47jfPQwOOeTawXfA62lRCBKHhwp+6SMvFYzFlfhdTOA==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfMjEaOqmVkILhtKxsaHkiMexGWFVinIFe0LMnY2w+Fn05bKEbm4hzKaLnDmlO25GEPalT/lFSZG/dcMYsYPzfeQ=
+  learner_created: false
+- name: refactoring.png
+  visible: false
+  learner_created: false
+status: Unchecked
+record: -1

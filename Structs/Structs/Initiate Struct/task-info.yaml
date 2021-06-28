@@ -1,0 +1,71 @@
+type: edu
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: wS5bI+InriwfpWddifcpb2n1dgIfx+4NlD7KUIKXUWxBwrgG8uFmfIANpyjMxvaPayNT3t/CtS4bBXSW5hniEKaNNkCgrVcHHidx8ZSTXZWz8SYBRgC1752OHgh06ragdwux35IiS9aIeyqJkJTr1jtteMWPZY/kewGnZkCEhBlXq+tdYeOPioDtRwZwtNbQlHQLkUowUu8RHz1hfgvuVsBR3oxxpYyE1bkcCdA/vkGIBHab/nvX4UfdKeRX1mpDhf5swTP8X9Wr5hcQ0rjk0gZtvBjeiDUmFES6yRBVqRa7ZGJ1BeJ0OIx9ozO8tcVEeAH+GfidMGTYqcIW0WFbO0WagLCA9doI0iXf73u/U/FUDuMbAm1yQM7KDA8Ra+A48UG0UDqjE2SuiP0kL10lcoykn8qZsQHf7HBwWHOC7EyR5quoDvu7Of98NMbfj8pvmpAHhsKOy0nTH8GGV10RwtebCn/oC22jhmjOlW0/BsmM1DyQPH/okW8PVOGXM+80yUaLQu1ftRwYmPyO2peG9LolzRWZHBB+n/8dbzAXkORY8tCjNHMPpg4SHupyvrjhKEyp/XIelLo2Etc6djFvchDYijlpUhtzZDBprgRr6cbjGKzxVsXgyda3Kp7S076A+hhEmUI3z77dCJnAJWOU8g==
+  learner_created: false
+- name: Cargo.toml
+  visible: true
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfFxzEbLubrXOnGeqRqGPX+WM7H+2F1K0Q6EMbgKO1dy5KC4trgzB06U5XiUUTTbJm/QbP8xlz+Cy/4XVX6UItGE=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: wS5bI+InriwfpWddifcpb2n1dgIfx+4NlD7KUIKXUWxBwrgG8uFmfIANpyjMxvaPayNT3t/CtS4bBXSW5hniEKaNNkCgrVcHHidx8ZSTXZWz8SYBRgC1752OHgh06ragdwux35IiS9aIeyqJkJTr1iUGwXaCBMGv8qQ/v9BhxJXKaE5EgYvNr/nezswjmKKtHoHggV7n0sRKQ8IuMXBF/tM4P+S3J0+qrU/uKLqjm3KPtcBG/qlxzTEXw3nO4p7ZgmIJgkQOwUQ8gbFXms5H9R+pDGAJkK+l0x6dxM8rK4605W7gFgHDah24RMwWD31RjCG2m6mhF72lb5fPXsvWQj1ekHnPvkYjSWTVI2PQ+BLw+phtNwzOiswj6MF+zsN2DvAOASiler1AktywilDYEzWGsM0Npp0MP0G2OjbECU96KMVvuOGy+qsKceNWnUkCqB76GHOb/wS4cGrBwewrqJT2S/6G7xZnrcqWmN951exasIBvrLz6QFDAbmABbFaOz7hvPvgcaj/Ak6Adc4yOI153mlluZJLLhmZkrrp0L4n4Xn9bMt9CY8YqPY8bZuqNlKiK3P3Rl2BZ2QLyevJhFsx/z4iqJhYAb7or7B4mumyVR/f37vJWr6BTPfXxqhumkzbtS2b0s1dO9WZE5ynT79XATCEmhey6tEsJ3wk5GLSmWbpNhKv8SNyXu6s9/QN6
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 36
+    length: 22
+    placeholder_text: // Something goes here
+    initial_state:
+      length: 22
+      offset: 36
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 1wHZ+NfuQwSTDxO5vHYy9Ng3M8vk6OcctytVp9kc4Ryd9YdkYhh4hRQ3GwK+rzEN
+  - offset: 90
+    length: 22
+    placeholder_text: // Something goes here
+    initial_state:
+      length: 22
+      offset: 90
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 0/KvE5Lpwety37K6zPZy67yEar8Lk5cH9JNvhbfVFkE=
+  - offset: 224
+    length: 34
+    placeholder_text: // Instantiate a classic c struct!
+    initial_state:
+      length: 34
+      offset: 224
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: WOsj8dMDHAgxl7zblUXNzzZjrZ/3E2YO07/i85T7zTRUlZzQnd0Wf/NEo1ryBwfqLOGbkqqv+NE18lJqtJOolBPPNpm2naFLD9itLJOpL3kZnEfnYIznaaut3Icc/glmNtUjgwTTYBdCTOMVp1fgfw==
+  - offset: 340
+    length: 30
+    placeholder_text: // Instantiate a tuple struct!
+    initial_state:
+      length: 30
+      offset: 340
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: svLB7K358o4OT34SZvI8QYgQK+fXDyjkAdHuOOe8JfZO1En/G8tKJb/IpLmumFPfC3EbBuli5Op7JpP2utaDGPvNS2jUBET7wv9857AMKAo=
+  - offset: 447
+    length: 29
+    placeholder_text: // Instantiate a unit struct!
+    initial_state:
+      length: 29
+      offset: 447
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 1h+jYIzLBwUOhcIwNt33Vg==
+  encrypted_text: SPOD/qnwLpzXqJnyaq2QCKsJwebJgKS+lSMQNx1X/X0d2Qa8kbaIHSLHTc3Ozjtd37siScnbLTqMmjRQ0/bPQZz0DD7lsMmNREr0arrV7J17xGUNP9vMke+Tv8PZ4RB1bsqVHi79pzGFCOgCKrIzap6wxkFbmqzZR/XdVeItk0SkpUkCtcrd9OvJEjjSXYBDpfv52ZQsGGb+CKQVs6v86c5X3alOYr2cKO15Lf4J93sD5V0ERYg58zIH+Vt5sK//3mZaNhV4dK/KjdJia6MQHa6tbQZ/e3WMbwc55S/FLiRrN9ClueCqHdgbQkhPZDpYhKSNsWgmE51OyLebyb4A6/isygHBo/EA2GTI1WULWj/h7N5thNGVvd+LUV989aQaYOlzdZyWFYbEX4RUN3BvVLP8+ow4/tauU9DxVyJgVqXEuxSpg6MY143sVmYysHybRplq0w/A6o28ht/CDyVPKVXfJzjBJaP87JBUnRHdf1spaz6oLgSWnMXpE2158nLtQdTcUaV04jX4Plu2FYf+rci5PdEJmUtoYfqzEdgpu3ua3VzNC8poU5047xXZg114y2aEpIduvOX/ozNyQd00NUfkLy0Bxoq5xYtR+Z1LdIbd+j+uPY73YIelhaavWcmClcBzvLIIfHSGtv1h/2j7X3KzeZ52C5/C99ny8l6Emd1HVspkfkEq8OfBMeGhp7rqMuSU4n+9qc8f0787KfrUnVOr7IVVgwCSyFvFg06owp4=
+  learner_created: false
+status: Unchecked
+record: -1

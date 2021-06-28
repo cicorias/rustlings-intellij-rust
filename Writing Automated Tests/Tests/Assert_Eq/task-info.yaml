@@ -1,0 +1,24 @@
+type: theory
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLbspNOlEhuFGgL9sxr9SCL1KzmPLAJjVuB/TzZpUQEnL7ceGdc02XlYz8C7o/Uq/skSmRyioBwFjNUtIAU+7SQ=
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 85
+    length: 47
+    placeholder_text: /*insert a correct assertion to pass the task*/
+    initial_state:
+      length: 47
+      offset: 85
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: FiPvI1T+qSajzKDhc4DI3Q==
+  encrypted_text: ziaKVSCklZFI9A2Vz8XIYE+PFHIBkHelcXvJkc7q5+uPi7b2ZidEXNXKVNNcTCF8zipJZ+eY7gHMtAdLDaNsVX9yRo39DniWWTh3rTBWo4LJWRkTnBo/GnOPu2XTzaDlEPdjYhhE4WYb7KzRcdXq862DdJzj3pIw73kssNQHEgltw0TupFFD8YadWmK/TaTN
+  learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

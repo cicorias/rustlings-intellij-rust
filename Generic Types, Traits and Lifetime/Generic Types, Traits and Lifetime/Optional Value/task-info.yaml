@@ -1,0 +1,37 @@
+type: edu
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 137
+    length: 24
+    placeholder_text: value = optional_value {
+    initial_state:
+      length: 24
+      offset: 137
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: D8PFuXPFKSB4wapbzTcwb91JU6XNs9FUmk4Zm4iywcZceHKQOR7rWyRC0lsAmcjh
+  - offset: 596
+    length: 35
+    placeholder_text: value = optional_values_vec.pop() {
+    initial_state:
+      length: 35
+      offset: 596
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Uyk5zwXzvkCzYw4QHaeviZXwmDezoPQIG9hfI6ZmJKuSW+3nF1oFftXk6lCSmDeuPlrtUOMmkWjz9DNwWCsS1Q==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DCElPmkHGSPNwXSZXukB3pdhdnH6xEeDE40tA6uJayQuwlB8TEyt+5OZQfLfIwyQnLr2Y+5764bZrkzBkCM4n+t7DjaHzNZTXZ8TMVmMjDw8397vT3PWUBylYaj3y8TWrMj383XDMpAQkcE8n6sLg5CvmOe+WaxKOefP5p3HyAhDBnHIbX521BLM/ZSIZaUvDUJwL7HP5l2n2FNRZ8J80+349Ih3fh/sAlLDH7JhNMy9GGr2S+WL2ZIbV1IgcFDOkJu1Xa4C78YrlsbgTUmy+b5Skye6B7O8a1GgeaAVNQ9zgxqFvKDjJsMMdHLyY2TZeBcr4m+L53SDLCgQ2B5wY/0GJzUsd0YasYtmR24IoIabQSHR5hOW3s/YwxfgywaaBQV20PrYM2AmLelppnmbjkWjBzTJ8SKXVLwrXxZtN7lWJ3t6hLJ5vK7II809bOxY3DLxYOecddqK5Wlz3wqv4jdxDh+uqNZSByGJwxsxiUzcgmW1QJ+MKRv/clfuZD5hjuz+TyPyuUxu4qr9z+tYt/n1/aaaH3JXSafnelzMM7D6xTnBfEzUlPyq8jCzDH68nO2b+moRhnWBmWHBX1RzvIQcXG3XlAoApGwq7usjst3zC6ctXGmO6nNVKr/xW6S1FNsEFhJBgIeZAGQzgPJ1RoH9aU0PFyT+XHePZ6TBv3aja2nIpr2sSG4CGXTts3U97FPX9hlKEBF8Lvn3XN0OthRlBe6yiYf4UT6wORCkZGJ3IH0zL9juEMZ9vZ7Pbln0R1MSlvkmHQCr8d4dJ7OZY54x/2d0coEU91BDcKX0ij/UEtmXICTW837qUejOmi9XJNkN+XezPTKScdBzbUislFOoeZyrxve8DfDoGJ+09Sl0fU3ce5sCsZOfCbETpP7dIwMdjZsxT9/S/5j/JhT4+LE=
+  learner_created: false
+- name: Cargo.toml
+  visible: true
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfEkteyBoGfxy4JGdPv1xf7QpkQKXPkRYMz0AgabVBKpWSgqij2np0YeoNmAv1hZAEOcSppVXnRLrxKr8ZEW1LoU=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8VvN4YSEHl8l7W11FY26lfxg==
+  learner_created: false
+status: Unchecked
+record: -1

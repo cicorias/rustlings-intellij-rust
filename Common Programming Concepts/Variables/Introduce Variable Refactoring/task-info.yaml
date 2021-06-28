@@ -1,0 +1,43 @@
+type: ide
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 36
+    length: 4
+    placeholder_text: 1993
+    initial_state:
+      length: 4
+      offset: 36
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: CGqIo8/awqfbGFrsN/HfJw==
+  - offset: 72
+    length: 4
+    placeholder_text: 1993
+    initial_state:
+      length: 4
+      offset: 72
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: CGqIo8/awqfbGFrsN/HfJw==
+  - offset: 105
+    length: 4
+    placeholder_text: 1993
+    initial_state:
+      length: 4
+      offset: 105
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: CGqIo8/awqfbGFrsN/HfJw==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DAlQqNVidYMOx+OJ1J7iJPCaDG2jc0jaZNTluesQdCX4CdhZ8DNJy259uZ0WUyg45a7KSZjSkFEfrFTCU73vgAybDwdM9vVE8JbLvxiEE8a2BHUDiAsfHeaNGmUba777Iem0Tb9L5Jflz4nIQ7xnrniBR/UVKUUUiUdUvy5iSUL+dL5hx7cCOJeOXPPwA6IhvZKntaSNIJ6FpN07r3x8KnaxRSU90m4unxjWlVzptL147FM82qc1R1RAGEYpslz3uoK7Cc8UcqqTD83qAkvhN0erlRwRvwzdqDcCziBHgd9zLZEQxAWlfKhbFsveV1jcJ25cpTJcQhy91cfj2HVQXaU=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCguyvFQBYm8prefsYRVFh6/cTEV96TRkkWo1C4zqj5NtItyC9mLP1C1eMuZg9plNu4ag8FylCeFk+5fUGZYqGA=
+  learner_created: false
+status: Unchecked
+record: -1

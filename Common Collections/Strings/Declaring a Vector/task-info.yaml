@@ -1,0 +1,31 @@
+type: edu
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: 9/mDzLEpoyv8aZEzHMzGinfNAy2iSbuhAh9A3KdkhSpoXP8L+uTkPBxZTaYHW39+MMylkWFMHo99kFmVL1KxljVS57RMl2TzmQ+ShgCCK5KMpRZ0rK7wXMpvFZdqDAVG4I+FQKngihTGMcHPzX8H/++pgf7GZ4yVGAp3mddlw0zbxGPnuAyaSozBOVBmj+0hc7FdTtEkoM/Ypz6KRMmEMA==
+  learner_created: false
+- name: Cargo.toml
+  visible: true
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfPf54Xk8hL91XTnuqbNhUI2adhOOqfC/mFsh61lU1svPgEfB6fSJJe4FH3sO5OozYwpyjq8p8P7AP2MGgLzg2yk=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: 9/mDzLEpoyv8aZEzHMzGinfNAy2iSbuhAh9A3KdkhSp5yoLQMz2zyW/fEpBQoqfv8+Tu6ouWGZK5U05KpTN1CnoajhwvIH+MJl6j0bDs++mDaUnWcK+ptwVQcYE8FrPSSGfcy4sJGfEDyQmzU6WLB7OEDcXt/+vAAAiSIEPk00vjmlS8U6tk+K+a5l54kYWF59NrOmNc9zOhSAzzlWuyarm7NRsaelfbH406d6/1Rf2VWsckNVmKPvRnd0ryFukWCztEqk8ERMljBUuoxhL5ZUa7AheNDckcQKHhpH9AblN6Fdn8tjUeJsc8BtXpK2tVoS7MLKE8mlkePQx+VlRI+g==
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 108
+    length: 27
+    placeholder_text: // Declare your vector here
+    initial_state:
+      length: 27
+      offset: 108
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: hrIj6Ky/RmDXbcByWBHdJQ==
+  encrypted_text: JaHBW7x06PZ2jrsODXvjvUUpuvNz6/1EhX9RVrI6CFHE4TEOVFulNX5GmSCIm89MFiMorZAA/UbY/FyZPIW/Xwwfo0ZwnUUjm3l2OwmDSbdZHWFJ/VfjrRYDqPscgoEzy0gJnicfe3FcFUd0D266yAEN7L62hA/LCGkV7WUVvmdPRz/yocZJhN2q1gv7HAIsDqXS9nGgUnqSYr1/8K397g==
+  learner_created: false
+status: Unchecked
+record: -1

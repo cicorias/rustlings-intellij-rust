@@ -1,0 +1,43 @@
+type: edu
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 41
+    length: 71
+    placeholder_text: '// TODO: implement the message variant types based on their
+      usage below'
+    initial_state:
+      length: 71
+      offset: 41
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: u9R3m+/o4gTSz61Q/g6v4qnCKOmhoaIGJi0imzzNFO03XFibSz/tbdoetT5Jtcrm+8McqpqyYD0Zw9i9b+x7ZJ4MHxKvSmlBlvhgoIUGPKg=
+  - offset: 643
+    length: 76
+    placeholder_text: '// TODO: create a match expression to process the different
+      message variants'
+    initial_state:
+      length: 76
+      offset: 643
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: ue/SaclVyL5foPnwVyNkQxBONPVV1UjnT7i4LTNMElhqgC4kQKeezk1KCyCU5cPEjwAM54eF9w2D2dMKJhRum92OENdBRXmntS65TVp1r9QT/E31eP4rdIz2V6/R+kdzbiTKe/M/efUZamxMHcD9zNEj2HjVFCBnYj07X9FZymznqcoO+muo42n+ZWyM5hPd1sFVc6SgulE+gdZzSguVsxYzJP69c30EyGPXvsm7JKaHiEnVQ9ggED30Md68d8UWCdk7g4TPIf+fC5/36ap67qz1miczMmy4zZQjf2Ox9opfP7MWKUPVqzRVmw1MGQswEkfRYdTrLl5kIx9wu/sq6Q1emZCTR8wyTZdqdU/ltdAWY/SyUw+NMBFPP3DfS/Hr
+  encrypted_text: /WHbvM8FJU9QwKLn/MPWdZoYz9EgJh2nPQjIdi1nRB3SJZYmOmV3xuKMrpT9909+Q89P9Wh6mxAHomNk3DlIK+Na+qmaCgFT0oGHu6RaSxLbQOGTZSZlw6usB4vJuSiDXwinRZGzzl8ls+Rcxiau9Kd8GEKO493qPcUIGaVY3Ff6oBYcCAsCf69PHNlwtPQ52+7HCDrimY3ccpjr0cH5SfYBYFMBgjfpDxWm3+Iwh0WJlhXNs5amg1UtwcBJM+cuMH+n+bbWaCqPAZtY2Xp9TFrDeF1RCia26ep7CQckjEK+nOcPlJ50iRIkhVeOYFeQIx3SO/G8cpL7UFGkA6dT7dc0cnpiGUXLIVoGBZj7IsJ28xwvr8UihkOi7D4CNw7hEjhqGOXmr3pOinjonEgodCDeiVusprZKCA/wizLLpUV1yOqa+vOBHtaQa4wJebCmETuIRjpB/twuzWtWT5XEak+IoPg3Vdb/AW5XqAz+C0/b+Cu6L6nSAuZTWW4Hr88GnU+g7M9LPCT+xsE7aEjWuZyJOgC0FOrfK53nnrWcS6zigiIwf4Yz+Jcxu7z0Cw4hSzyi2VFtreJGFsEnPq+TslfHF1HAglG6Bg8ciPWtAg3EJYpnYYHHFyZymHsZPpoFYrB4RUC5syGFQyCPPVMJOhS1n6Pbf2jhCkX54k3Ep/rh99SBRCSm2B9FMxAk88oJGa/pUN1Tpr7slvs4LjSMhJ5DOTT7CdVcPd87SRYs6RchY3AnsUXvBLxIC/lkCeTcFLk6EHE0hKucrbcAysZkhfGJTvdQcOF3wW9F6WxStm4wic1nnfe8Jl078UOFLJl66DWc9mqPAzfTtjU9Fe4x8fNCgZhioOvruohvCdue6pNIpm38f8yX7y1oMnY0AXCJ6yk7G/jpSpgd6FQbzAPJ/DWe2xurqd10yflgJdG5OJdOEaAJNxbLBI0Rh6Hnbq852lLFDLBA+ctDgvLcSPrdcfZZs5QYQa1P0SaYNSuwabHWlLpe4zG4E2BLELwbcRwHV3VgbPTNUZxJ9ZxyR+2AeUROAGMy2yIXrr0P6Bf7tPYDwAQ1dX4HjI8kwmuv9FRXlc1n/PjvY6z49xwYln00dXkI5qTzIpsOcqjnozOBqTfGwxiMn5hC7q009G3QAyj0QvLBXPUwlnqfAzB1Xa1mBdjxiO1lO070ejVCcCDEJaEjp1uFcOqgRrOlB885qYkSTCPgtMRshAga5EoIDKB1w3P6OQHfNg5dIkQzfQZ2xUwjZDoYruGWx7oFxtOakFOX/lEF6wdRcw2xWZ0gGBcSSy2kjNPCsNoU8IlRzCTtSClY410RdhKOs1mtmrkj6aHgMQ0bNzwdPQJXBXcopE8/Gd7JouGed3nzfWYI0NqCm0frY1H+w5nX/WHbDwtoyvJLi9Ip4MWKT1S/jiU8CjTSBnL9LhVCBMEMc9Fg3yVfhO+GCJmpiyjq4Y6kGjPsZgnxMy2xob/Yfp4dhgI4qsNp6w==
+  learner_created: false
+- name: Cargo.toml
+  visible: true
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfEK+r4JCkh6d9Ur/htgYswW/M45gVsfsH7XZgkQT6PnH0VubODUWB4JiGD0acMrHGRPtuOuI9Y53ZG8MP5c0QHw=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: ElpK8Q660CW8IbTAZk6wFrZbuN3T/p8Hnhc9S8daUsvqWsE/CHDrDijLHpKTi2rEXv082n+lPLSXN4+wTlleVC66sq0dcMViicCjoEyGQJmuEdEkhuKTXH/QR3Yv1B1ZctqMx9wHKf/D2WCUIFksxqnfA90s9Rkum/3aqVEU+kiu9QRmGtuNUY/2X5yC8MvINO+NTsFtfJahaYdiP6LlJhxtPTr4file2L5cf1HwiDt2Pf5RgTZrJgWzTIR4Fa8a8/L7qo5vIef+sxvMrTcVTUes9XG6HeFazA4gPmT5FvlAaRrv0HkQsHwBpBjpEAN9i0NuWOninL8p4Y6jTf/EuVevY/T57LjdRvYyvZZcK7Pjs9CkErIad/FhVwkv4G2W
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: ElpK8Q660CW8IbTAZk6wFqUFZHheLcO8rZUEqhByCX1fA7BpwHSng5X1PZ/eLa/hylFSCQMK5roO8OENI01izslsOhbfAnDXznDfCuMyz7FdKDo8nKkR2VxyXJsMdnVkjYmbhPiyBQRrZtq/s7RjfvgEzhkkhVRRIRH3hw3kg/I838gkq4xcWMc7RTDIltVqupAfb7clkZ8xNaunk2UwdwiyG2zJOugHxCypEb7GedjbgylXOA4jMRFlhp7pXXYblvSrRPQCIRp4yS4Tq1ZG4N2KMQrm/VAe5Q4Jhe5WG+28Vx3vpNaKN6vCxYUxc70m
+  learner_created: false
+status: Unchecked
+record: -1

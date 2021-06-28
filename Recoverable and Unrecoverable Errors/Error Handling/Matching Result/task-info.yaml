@@ -1,0 +1,28 @@
+type: edu
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfPsqM0GCJJCCtXoo07wBl1DravsdVBth8gw4AS/YZf9fUfZ51emY4+iZ+53ncybXWb0BIUpklhRckOmJDG53ipk=
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 198
+    length: 73
+    placeholder_text: /*this is the short way, but you can just match the result of
+      the parse*/
+    initial_state:
+      length: 73
+      offset: 198
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: r0fiGc4Ru7P4nrsHLm+xBQ==
+  encrypted_text: 00w6Hq7zUAG50d7VIKl0IOXDFoFGiP3AWpHEWK9QW+bi/QojYk0GKFKmzSkUDASOcbl7ZxVsmLCt0N8ffkuVDsrlPGg7XEbjYqGX3HaqHvtoNbbKNfcGN92nV+PVdqqQtcP7MUHoTQMgcHgNdXqV3eKvWZZX8erZkwrlg5ZET/KzMG0b/b5gGZNPR92i18xwuFHvHOJcIewN8EG1LJFJ6+Naf6g+C9p9OWgdRefZKwXK08gD6GiQPKHMNfRv6C+RJqG2t2eerD/bE07sgxMrjXkuE/oYWrp7I50U7gd3AdSYgFs0d/f9gB46d27VMrIxabObngDcMxaVbi2vAr3OqYIud4vpdTgxCtEsfsL6ljJ5+Q3oLLkJYFli7puxuUxLtQrSDMewiyzo8hGxbVzHC3hS7KW9YWKNO2ILX6ooL4Jww8bIYwfDRggXeuzuEo2u
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: B/HnQXX+qmltB1Tpg7Px/9yVETmE+kmgh2JYNviWLJEJEFVTBimzT3GnI5HzbDqI9fvX4RCzBWZYQ53Rn6Yc9UIMBm3YGVPLN4Wdms7u57NtLILC52xeWREsxX7y/MvOsBjFWH4Yi8/KdOYtuH955yi7DVXBZhsGffoOeMA+n5FXXNFKFddI8No+bshiA3v4G/yn3l6wCYPiERMfDU2aCIyl+twcCWmjGqLT7lC8JJFczNZYSDi+l7gLdWgt+HIUBXHkWxz1QQ+R4vNLoxANgkE6o5GPY2E+0GXZPGVDUlSfDGnqEP0Fs+3Q/4/u+V9F1FZ2RKrOVoXk5sz+G/M1oCoU2qicbBD9uoBOK5ilZohapaChhz+fVIqGnl/E/vgklXpMATBD7YIPclUf4ouFIQ==
+  learner_created: false
+status: Unchecked
+record: -1

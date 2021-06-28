@@ -1,0 +1,28 @@
+type: edu
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfOw/u2Rcx8COeEyK6PTDDtqs1K3VK7T2dqUUeit6rxY+y8LL0corCWLR/BSYmcS9Cg==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 135
+    length: 70
+    placeholder_text: // Finish the rest of this line like the example! Or make it
+      be false!
+    initial_state:
+      length: 70
+      offset: 135
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 2+7POt4eiymUghlNx50j/EMpKvYr/2BnYLc9sp6FeNI=
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DJxpnApYPxEDl2cVSVG6dJ7q3o0VwDJW9G7cYNMOs5i4EZ3jw1/Xlmu2I5Zir2ozAU6bC260VMatPkR+fnGJwg63bmAcqr2Xr2RHSDj4OwW1Le5jPJTaSCy7qbdvj/Sp2pDwVDDJlwg2/+mcv7TIagdMoac9QJp7AcoltdUatJu5LyTdDj/eBYyR0+Pn13azUo2z5HmVEUl27sEKWe6BbjJGeFZqHi2TaidzaGCQChPEXTT23zM5pkGjpid8hmcFbAZhQJdW8LNk7oMwa6rk1s7otEix7YgDOvZVvIk3LHujIXu+93v+yYRgahOJWJAJRtpmRc3WaC7SqOllHmK1rJU=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8Vm+/EC1NguOqk3/BjT3jh8g==
+  learner_created: false
+status: Unchecked
+record: -1

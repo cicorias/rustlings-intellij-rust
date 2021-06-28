@@ -1,0 +1,37 @@
+type: edu
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfBFXndzRlPXQMju03AJbJlvrAfgfnaPL0jx1Yy/pIWaaHoFr2hMPhMh8t7jYPky9UjBPc4Rd9lYHNekDoTmh0S0=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 163
+    length: 40
+    placeholder_text: /*type the beginning of the trait here*/
+    initial_state:
+      length: 40
+      offset: 163
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: wWEXpAABvZ3scdHL1oF6tA==
+  - offset: 210
+    length: 26
+    placeholder_text: /*and the last part here*/
+    initial_state:
+      length: 26
+      offset: 210
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 3XQ+R2u5I4DrKZGYa+tM/w==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DLF0pS2bNhVANKUlUGUwiNH1bUAuGLE7kgssGr+ZKEQeHveYy76XSvxVSBqo/WGnW383f9DR0HCWqcUjHEJgYdDtZZTOmHbkTyZ8HtUt0R4TI1hdm4yZd0JjxFaVGDrWqTfGep/ic0u0REnOVgvH97wlGpdZYkI0Wzi/TpGkvi8SlGexgkOTtjUln+Ag0/sUTlPCkPe9dNsrZKQhJkYsUdWVzsUZu3JDGXmXkN+lgOnPHKAjcwsy2AroZ9FR9ehXew4uet6JVTJzWjNtocP/Z48qlNt45C/SkpHQy7XkBqo6
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8Vm+/EC1NguOqk3/BjT3jh8g==
+  learner_created: false
+status: Unchecked
+record: -1

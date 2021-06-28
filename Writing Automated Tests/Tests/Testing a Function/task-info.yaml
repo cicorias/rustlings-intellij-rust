@@ -1,0 +1,37 @@
+type: edu
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLoaKFS0EdqCuIdxXQxNpj/i77oa6+/4lK6wU18BMMPj7J2oDd088h+LP/3y0UP5n1NAAdjbs8BeTRxOajbaSZk=
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  encrypted_text: ImUgZMinHEEr945PvzfP2AkLkiI4Uw6axBsEeFRTtQ3ofAjpK5GMudflRhsIpFGspfXA5dt5gs01lYxxsKWv7A==
+  learner_created: false
+- name: tests/tests.rs
+  visible: true
+  placeholders:
+  - offset: 122
+    length: 47
+    placeholder_text: /*insert the parameter for the assertion here*/
+    initial_state:
+      length: 47
+      offset: 122
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 1jv4oI924ZkXwBNnWzUX/A==
+  - offset: 248
+    length: 47
+    placeholder_text: /*insert the parameter for the assertion here*/
+    initial_state:
+      length: 47
+      offset: 248
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: MLcncFemOCq1pOmRWXqSfg==
+  encrypted_text: ziaKVSCklZFI9A2Vz8XIYF1nbbyC19LtUlVdecGJxl2DeptIlQw/Rbio4Me+B2gRowE+dbHrfuhBNNe8mSMATmIe5707iPII2jLjkjyAkbzL3Xcc4ffNtl8JINF5m8RENIAM+yuWIUvneNLthkggk3tJgQLhNWpG6nXvEn3HljfWU6ENzCF8Zbvo9WLaT1mUEAzk5aEscPOOz04ZHmo2jVaR1QsVfkFZGA+M6wFZWz+NhAntbpswLvsNJOSpj70h6VeDzYXgsim5t3oCdGhpQaBrl+g4x23l0LygfB/P3u3woWRwCzc2iNGzYZ1AOq3K6+fap03JJopqywbeplzFevKaebL8iXYwIlO/xNktVr0bQaeLHWf1sZ7Prr1vKCtA/takuKlRFvKJw0YJzfFQwUk4kX+cyDA89O63lDuRnk8yKXKQ2x8nKzJ5uFJm0qvn
+  learner_created: false
+status: Unchecked
+record: -1

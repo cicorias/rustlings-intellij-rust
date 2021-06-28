@@ -1,0 +1,27 @@
+type: edu
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 91
+    length: 29
+    placeholder_text: /* Something missing here! */
+    initial_state:
+      length: 29
+      offset: 91
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 0iV8NCCPfPrcuz8qxwUXSg==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DCk20GWNa91lqQEgvapYnkXM4fB3d/l78MvcrfE0VVKYd2e2LI70ZJL8r8TxsmjKNU73PbocWG+np7MEgrZvcYVVKF7MfTmdpvfymZKogGPXpc1Sya6mOaNMz4jqwdClkdX48I9rNUXcH8qIUWIKyEyK3Y6UBGmA1MEAE+/PslUnDZFZSMM059cet/1+FaIBakCViwZ8ewzXEdm5QRdmE6ZijNbthN1XAGF24b5V2iSl
+  learner_created: false
+- name: Cargo.toml
+  visible: true
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfN/dvcvg2jLzY8T+do842X6vYhMvUV0yF/LKpL90N4PyN2nkyDdl+JF58tHOBaJPwkXGu9jkeNzIGDWnp0ymVx4=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8VvN4YSEHl8l7W11FY26lfxg==
+  learner_created: false
+status: Unchecked
+record: -1
